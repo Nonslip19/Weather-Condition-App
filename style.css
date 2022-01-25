@@ -74,7 +74,7 @@ form{
 /* SECTION #1
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .top-banner {
-  color: var(--text_dark);
+  color: var(--text_light);
 }
 
 .heading {
